@@ -44,4 +44,5 @@ The system also:
 ### Mac/Linux
 
 ```bash
-source venv/bin/activate
+http://localhost:8501/
+
